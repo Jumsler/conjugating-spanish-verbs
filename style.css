@@ -5,7 +5,7 @@
 }
 
 h1 {
-   font-family: 'Gochi Hand', cursive;
+  
 }
 
 
@@ -15,7 +15,6 @@ h1 {
 .table {
     padding: 20px;
     
-    font-family: 'Coming Soon', cursive;
 }
 
 
@@ -25,17 +24,16 @@ h1 {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
-    font-family: 'Coming Soon', cursive;
+
 }
 
 th, td {
     padding: 15px;
-    font-family: 'Coming Soon', cursive;
+   
 }
 
 th {
     text-align: left;
-    font-family: 'Coming Soon', cursive;
 }
 
 table {

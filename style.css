@@ -20,6 +20,8 @@ p {
 .table {
     padding: 20px;
     font-family: 'Short Stack', cursive;
+    opacity: 0.97;
+    background: transparent;
 }
 
 
@@ -55,3 +57,4 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
 	background-color: #f2f2f2;
 }
+

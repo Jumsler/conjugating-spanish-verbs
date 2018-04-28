@@ -1,4 +1,11 @@
 
+body {
+    background-image: url("bg.jpg");
+}
+
+
+
+
 #header {
     text-align: center;
 }

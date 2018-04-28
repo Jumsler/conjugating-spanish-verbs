@@ -3,7 +3,9 @@ body {
     background-image: url("bg.jpg");
 }
 
-
+p {
+    text-align: center;
+}
 
 
 #header {

@@ -11,13 +11,14 @@ p {
 #header {
     padding: 10px;
     text-align: center;
+    font-family: 'Short Stack', cursive;
 }
 
 
 
 .table {
     padding: 30px;
-    
+    font-family: 'Short Stack', cursive;
 }
 
 
